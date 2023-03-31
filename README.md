@@ -42,5 +42,14 @@ Read the values of the tags, which are updated continuously with random simulate
 
 Optionally, you can use the OPC UA client to monitor the tags for real-time updates.
 
+## Usage with SAP Plant Connectivity (SAP PCo)
+
+![Using Python OPC UA Server with PCo](images/Picture1.png)
+![Using Python OPC UA Server with PCo](images/Picture2.png)
+![Using Python OPC UA Server with PCo](images/Picture3.png)
+![Using Python OPC UA Server with PCo](images/Picture4.png)
+![Using Python OPC UA Server with PCo](images/Picture5.png)
+![Using Python OPC UA Server with PCo](images/Picture6.png)
+
 ## License
 This project is licensed under the MIT License.
