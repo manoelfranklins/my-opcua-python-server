@@ -44,11 +44,17 @@ Optionally, you can use the OPC UA client to monitor the tags for real-time upda
 
 ## Usage with SAP Plant Connectivity (SAP PCo)
 
+Create a new Source System
 ![Using Python OPC UA Server with PCo](Images/Picture1.png)
+Configure OPC UA Endpoint
 ![Using Python OPC UA Server with PCo](Images/Picture2.png)
+Test the Connection
 ![Using Python OPC UA Server with PCo](Images/Picture3.png)
+Create a new Agent Instance
 ![Using Python OPC UA Server with PCo](Images/Picture4.png)
+Open Subscription Itens tab and click Browse Tabs
 ![Using Python OPC UA Server with PCo](Images/Picture5.png)
+Click Browse to see all Equipment and Tags
 ![Using Python OPC UA Server with PCo](Images/Picture6.png)
 
 ## License
