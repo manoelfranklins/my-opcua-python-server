@@ -44,12 +44,12 @@ Optionally, you can use the OPC UA client to monitor the tags for real-time upda
 
 ## Usage with SAP Plant Connectivity (SAP PCo)
 
-![Using Python OPC UA Server with PCo](images/Picture1.png)
-![Using Python OPC UA Server with PCo](images/Picture2.png)
-![Using Python OPC UA Server with PCo](images/Picture3.png)
-![Using Python OPC UA Server with PCo](images/Picture4.png)
-![Using Python OPC UA Server with PCo](images/Picture5.png)
-![Using Python OPC UA Server with PCo](images/Picture6.png)
+![Using Python OPC UA Server with PCo](Images/Picture1.png)
+![Using Python OPC UA Server with PCo](Images/Picture2.png)
+![Using Python OPC UA Server with PCo](Images/Picture3.png)
+![Using Python OPC UA Server with PCo](Images/Picture4.png)
+![Using Python OPC UA Server with PCo](Images/Picture5.png)
+![Using Python OPC UA Server with PCo](Images/Picture6.png)
 
 ## License
 This project is licensed under the MIT License.
